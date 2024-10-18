@@ -1,6 +1,6 @@
 ## Hi there 👋
 Welcome to my GitHub profile! I'm Oshadi
-### My Interests:
+*** My Interest***s:
 - 🌐 Big Data and Cloud Technologies (Azure, Databricks)
 - 📈 Predictive Analytics and Data Visualization (Power BI, Python)
 - 💻 Exploring the use of machine learning and AI in business solutions.
