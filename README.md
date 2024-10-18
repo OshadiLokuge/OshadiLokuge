@@ -1,5 +1,9 @@
 ## Hi there 👋
 Welcome to my GitHub profile! I'm Oshadi
+### My Interests:
+- 🌐 Big Data and Cloud Technologies (Azure, Databricks)
+- 📈 Predictive Analytics and Data Visualization (Power BI, Python)
+- 💻 Exploring the use of machine learning and AI in business solutions.
 <!--
 **OshadiLokuge/OshadiLokuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
